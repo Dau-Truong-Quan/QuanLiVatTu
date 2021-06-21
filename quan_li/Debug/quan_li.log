@@ -1,0 +1,26 @@
+﻿  quan_li.cpp
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(129,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(433,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(501,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(494,24): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(818,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(819,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(820,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(1044,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(1387,6): warning C4101: 'kiemTra': unreferenced local variable
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(1409,6): warning C4101: 'kt': unreferenced local variable
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(1406,20): warning C4101: 'cthd': unreferenced local variable
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(1446,14): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\quan_li.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(112): warning C4715: 'kiem_tra_ma_vt_trung': not all control paths return a value
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(209): warning C4715: 'check_chu': not all control paths return a value
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(286): warning C4715: 'nhap_so_nguyen': not all control paths return a value
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(426): warning C4715: 'nhap_ki_tu': not all control paths return a value
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_nho.h(502): warning C4715: 'nhap_so_thuc': not all control paths return a value
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\doc_ghi_file.h(180): warning C4715: 'them_nhan_vien': not all control paths return a value
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(1034): warning C4715: 'kt_ma_vt': not all control paths return a value
+C:\Users\Dau Truong Quan\source\repos\quan_li\quan_li\xu_li_de.h(1175): warning C4715: 'nhap_1_cthd': not all control paths return a value
+  quan_li.vcxproj -> C:\Users\Dau Truong Quan\source\repos\quan_li\Debug\quan_li.exe
